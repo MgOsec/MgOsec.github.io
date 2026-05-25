@@ -3,7 +3,7 @@ title: Deploying T-POT on Azure
 description: A walkthrough of deploying and securing T‑POT on Azure to capture real attack telemetry.
 date: 2026-02-12
 categories: [Labs & Projects, Azure]
-tags: [Easy, azure, honeypot, t-pot, threat-intelligence]
+tags: [easy, azure, honeypot, t-pot, threat-intelligence]
 image: https://github.com/telekom-security/tpotce/raw/master/doc/tpotsocial.png
 ---
 
